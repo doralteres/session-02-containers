@@ -1,1 +1,1 @@
-# session-02-contsiners
+# session-02-containers
